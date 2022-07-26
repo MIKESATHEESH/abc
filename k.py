@@ -1,5 +1,5 @@
 print("hello")
-a=23
+a=300
 b=100 
 c=a+b
 print(c)
